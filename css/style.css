@@ -1,0 +1,12 @@
+
+body,html{border:none;margin:0;padding:0;}
+body{word-wrap: break-word;overflow:hidden;background: url(../img/editor/editor_bg.gif) center center no-repeat; background-attachment: fixed;}
+body.not-bg{background: none;}
+table{margin:0;}
+.e-j-center{text-align: center;}
+.e-j-left{text-align: left;}
+hr{border:0;border-bottom:1px solid #ccc;margin:0;padding:0;height: 0px;overflow: hidden;}
+a{color:#ff7fa6;}
+p{margin: 0;padding:0;}
+.e-table-inner{empty-cells: show;border-collapse: collapse; table-layout: fixed;max-width: 638px!important;margin:0;}
+.e-table-inner td{border:1px solid #ddd;padding: 4px;word-wrap: break-word;font: 14px/1.8 Tahoma,Helvetica,'SimSun',sans-serif;}
